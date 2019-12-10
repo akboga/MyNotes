@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">610358327786-gg879o0fes94bg2p1h02mp9tp030cptr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://my-notes-ae3cf.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">610358327786</string>
+    <string name="google_api_key" translatable="false">AIzaSyBpgV75Tt-FeOsWGqc7eaKL81ySf0nL2yE</string>
+    <string name="google_app_id" translatable="false">1:610358327786:android:ddf52b1d4cf6f8f9ed5a93</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpgV75Tt-FeOsWGqc7eaKL81ySf0nL2yE</string>
+    <string name="google_storage_bucket" translatable="false">my-notes-ae3cf.appspot.com</string>
+    <string name="project_id" translatable="false">my-notes-ae3cf</string>
+</resources>
